@@ -1,5 +1,7 @@
-#include<iostream>
-#include<algorithm>
+// #include<iostream>
+// #include<algorithm>
+
+#include<bits/stdc++.h> // This is not recommended for production code, but useful for competitive programming.
 
 using namespace std;
 int main() {
