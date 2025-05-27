@@ -1,2 +1,2 @@
-Amit Sengupta  2 2.8
-Tamal Chakraborty  3 3.5
+50 10 3.75
+1 10 5
