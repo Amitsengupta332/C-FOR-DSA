@@ -19,12 +19,19 @@ public:
 
 int main()
 {
-    Student rahim(50, 10, 3.75);
+    int r;
+    int c;
+    double g;
+    cin >> r >> c >> g;
+
+    Student rahim(r,c, g); 
+    // Student rahim(50, 10, 3.75);
     // rahim.roll = 45;
     // rahim.cls = 10;
     // rahim.gpa = 3.75;
 
-    Student karim(1, 10, 5.00);
+    Student karim(r,c, g);
+    // Student karim(1, 10, 5.00);
     // karim.roll = 50;
     // karim.cls = 11;
     // karim.gpa = 3.85;
