@@ -14,7 +14,8 @@ int main()
     }
 
     // sort(starting, ending);
-    sort(arr, arr + n);
+    // sort(arr, arr + n); // ascending
+    sort(arr, arr + n, greater<int>()); // descending
     for (int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
