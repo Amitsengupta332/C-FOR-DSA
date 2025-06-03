@@ -1,0 +1,7 @@
+3 
+sakib ahmed
+15 45
+rakib khan
+10 50
+sifat khan
+5 100
