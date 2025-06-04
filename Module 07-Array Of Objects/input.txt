@@ -1,7 +1,7 @@
-3 
-sakib ahmed
-15 45
-rakib khan
-10 50
-sifat khan
-5 100
+6 
+sakib 5 45
+rakib 1 50
+sifat 5  100
+akib 7  50
+takib 10 10
+ifat 4   90
