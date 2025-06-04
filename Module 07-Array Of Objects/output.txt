@@ -1,1 +1,6 @@
+takib 10 10
+sakib 5 45
+rakib 1 50
+akib 7 50
+ifat 4 90
 sifat 5 100
