@@ -1,7 +1,8 @@
-6 
+7
 sakib 5 45
 rakib 1 50
 sifat 5  100
 akib 7  50
-takib 10 10
+takib 10 100
 ifat 4   90
+fat 2   100
