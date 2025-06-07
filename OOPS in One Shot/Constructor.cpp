@@ -39,5 +39,7 @@ int main()
 
     Rectangle r3= r2; // Object with copy constructor
     cout << r3.l << " " << r3.b << endl;
+
+    
     return 0;
 }
