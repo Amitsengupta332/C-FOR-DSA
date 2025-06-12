@@ -9,15 +9,15 @@ int main()
     string word;
     bool found = false;
 
-    // while (ss >> word)
-    // {
-    //     if (word == "Jessica")
-    //     {
-    //         found = true;
-    //         break;
-    //     }
-    //     /* code */
-    // }
+    while (ss >> word)
+    {
+        if (word == "Jessica")
+        {
+            found = true;
+            break;
+        }
+        /* code */
+    }
 
     if (found)
     {
