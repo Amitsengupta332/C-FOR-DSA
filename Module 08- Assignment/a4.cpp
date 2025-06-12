@@ -12,7 +12,23 @@ public:
     int id;
     float math_marks;
     float eng_marks;
+
+    int total_marks() const
+    {
+        return math_marks + eng_marks;
+    }
 };
+
+bool cmp(Student l, Student r)
+{
+
+     if (l.total_marks() != r.total_marks())
+        {
+            return l.total_marks() > r.total_marks();
+        }
+
+    return l.id < r.id;
+}
 
 int main()
 {
@@ -25,6 +41,8 @@ int main()
     {
         cin >> a[i].nm >> a[i].cls >> a[i].s >> a[i].id >> a[i].math_marks >> a[i].eng_marks;
     }
+
+    sort(a, a + n, cmp);
 
     for (int i = 0; i < n; i++)
     {
